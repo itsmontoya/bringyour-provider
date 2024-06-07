@@ -1,0 +1,6 @@
+name = "BringYour Provider"
+port = 80
+
+[env]
+username = "[BringYour username (commonly your email)]"
+password = "[BringYour password]"
